@@ -59,6 +59,7 @@ public/
   hero-workspace.png
   personal-photo.jpg
   project-daycare-home.png
+  project-portfolio-home.png
 src/
   content/
     portfolio.js

@@ -74,6 +74,8 @@ export const portfolio = {
       ],
       stack: ['React', 'Vite', 'CSS', 'Content structure'],
       accent: 'teal',
+      image: '/project-portfolio-home.png',
+      imageAlt: 'Homepage screenshot for Abdulaziz Wakah personal portfolio',
     },
   ],
   capabilities: [
